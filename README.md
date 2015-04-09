@@ -1,5 +1,1 @@
 # datasciencecoursera
-datasciencecoursera
-
-
-fdg
